@@ -1,6 +1,7 @@
 AIRBNB ACCOMMODATION DATA INSIGHTS
 
 📊 Project Summary
+
 This project focuses on exploring and analyzing an Airbnb dataset to gain insights into trends, pricing strategies, and patterns within the short-term rental and hospitality sector.
 
 🔍 Key Questions Explored
